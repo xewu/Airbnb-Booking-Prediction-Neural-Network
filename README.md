@@ -1,2 +1,2 @@
 # Airbnb-Booking-Prediction-Neural-Network
-Self-implemented Neural Network
+Neural Network Architecture for destination prediction.
